@@ -1,0 +1,17 @@
+/src
+  /data
+    __init__.py
+    data_loader.py
+    graph_builder.py
+  /models
+    __init__.py
+    cgnn.py
+    layers.py
+  /utils
+    __init__.py
+    metrics.py
+    visualization.py
+  main.py
+  config.py
+README.md
+requirements.txt
